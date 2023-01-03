@@ -2,7 +2,9 @@
 
 ![uci](./img/uci.png)
 
-Cohort analysis for a real online retail store data set (n=525461). This `Online Retail II` data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011. The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers. Column values can be found [here](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) under the Attribute Information section and the whole procedure can be found [here](./analysis.ipynb)
+Conducted a cohort analysis for a real online retail store data set (n=525461). This `Online Retail II` data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011. The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers. Column values can be found [here](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) under the Attribute Information section.
+
+The whole project report can be found [here](./analysis.ipynb).
 
 ## Motivaiton
 
