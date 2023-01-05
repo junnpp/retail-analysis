@@ -1,4 +1,4 @@
-# Cohort Analysis for Online Store
+# Retail Analysis for Online Store
 
 ![uci](./img/uci.png)
 
